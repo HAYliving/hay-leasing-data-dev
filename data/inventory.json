@@ -5,7 +5,7 @@
     "indoor_area": 4967,
     "service_area": 0,
     "terrace_area": 1066,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -15,7 +15,7 @@
     "indoor_area": 4222,
     "service_area": 0,
     "terrace_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -25,7 +25,7 @@
     "indoor_area": 2924,
     "service_area": 0,
     "terrace_area": 810,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -35,7 +35,7 @@
     "indoor_area": 2803,
     "service_area": 0,
     "terrace_area": 828,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -45,7 +45,7 @@
     "indoor_area": 2011,
     "service_area": 0,
     "terrace_area": 180,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -55,7 +55,7 @@
     "indoor_area": 2008,
     "service_area": 0,
     "terrace_area": 179,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -65,7 +65,7 @@
     "indoor_area": 1075,
     "service_area": 0,
     "terrace_area": 104,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -75,7 +75,7 @@
     "indoor_area": 533,
     "service_area": 0,
     "terrace_area": 189,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -85,7 +85,7 @@
     "indoor_area": 480,
     "service_area": 0,
     "terrace_area": 52,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -95,7 +95,7 @@
     "indoor_area": 277,
     "service_area": 0,
     "terrace_area": 136,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -105,7 +105,7 @@
     "indoor_area": 344,
     "service_area": 0,
     "terrace_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -115,7 +115,7 @@
     "indoor_area": 236,
     "service_area": 0,
     "terrace_area": 44,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   },
@@ -125,7 +125,7 @@
     "indoor_area": 195,
     "service_area": 0,
     "terrace_area": 42,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   },
@@ -135,7 +135,7 @@
     "indoor_area": 136,
     "service_area": 0,
     "terrace_area": 21,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -145,7 +145,7 @@
     "indoor_area": 3154,
     "service_area": 776,
     "terrace_area": 1278,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
@@ -155,7 +155,7 @@
     "indoor_area": 212,
     "service_area": 0,
     "terrace_area": 66,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   },
@@ -165,7 +165,7 @@
     "indoor_area": 80,
     "service_area": 0,
     "terrace_area": 23,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   },
@@ -175,7 +175,7 @@
     "indoor_area": 100,
     "service_area": 0,
     "terrace_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   },
@@ -185,7 +185,7 @@
     "indoor_area": 74,
     "service_area": 0,
     "terrace_area": 0,
-    "leased_status": "No",
+    "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
   }
