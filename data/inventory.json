@@ -1,30 +1,31 @@
 [
   {
-    "unit_id": "B-100",
-    "building_name": "Building B",
-    "indoor_area": 4967,
-    "service_area": 0,
-    "terrace_area": 1066,
-    "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
-  },
-  {
-    "unit_id": "H-200",
-    "building_name": "Building H",
-    "indoor_area": 4222,
+    "unit_id": "A-0013",
+    "building_name": "Building A",
+    "indoor_area": 74,
     "service_area": 0,
     "terrace_area": 0,
     "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
+    "category": "Retail",
+    "unit_type": "Retail Shop"
   },
   {
-    "unit_id": "D&E All office",
-    "building_name": "Building D&E",
-    "indoor_area": 2924,
+    "unit_id": "A-200",
+    "building_name": "Building A",
+    "indoor_area": 2008,
     "service_area": 0,
-    "terrace_area": 810,
+    "terrace_area": 179,
+    "leased_status": "No",
+    "category": "Office",
+    "unit_type": "Office Space",
+    "floor_level": "2"
+  },
+  {
+    "unit_id": "A-600",
+    "building_name": "Building A",
+    "indoor_area": 2011,
+    "service_area": 0,
+    "terrace_area": 180,
     "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
@@ -40,31 +41,51 @@
     "unit_type": "Office Space"
   },
   {
-    "unit_id": "A-600",
-    "building_name": "Building A",
-    "indoor_area": 2011,
+    "unit_id": "B-001",
+    "building_name": "Building B",
+    "indoor_area": 212,
     "service_area": 0,
-    "terrace_area": 180,
+    "terrace_area": 66,
+    "leased_status": "Yes",
+    "category": "Retail",
+    "unit_type": "Retail Shop"
+  },
+  {
+    "unit_id": "B-002",
+    "building_name": "Building B",
+    "indoor_area": 236,
+    "service_area": 0,
+    "terrace_area": 44,
+    "leased_status": "Yes",
+    "category": "Retail",
+    "unit_type": "Retail Shop"
+  },
+  {
+    "unit_id": "B-100",
+    "building_name": "Building B",
+    "indoor_area": 4967,
+    "service_area": 0,
+    "terrace_area": 1066,
     "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
   },
   {
-    "unit_id": "A-200",
-    "building_name": "Building A",
-    "indoor_area": 2008,
+    "unit_id": "C-002",
+    "building_name": "Building C",
+    "indoor_area": 80,
     "service_area": 0,
-    "terrace_area": 179,
+    "terrace_area": 23,
     "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
+    "category": "Retail",
+    "unit_type": "Retail Shop"
   },
   {
-    "unit_id": "I-400",
-    "building_name": "Building I",
-    "indoor_area": 1075,
+    "unit_id": "C-100",
+    "building_name": "Building C",
+    "indoor_area": 344,
     "service_area": 0,
-    "terrace_area": 104,
+    "terrace_area": 0,
     "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
@@ -80,16 +101,6 @@
     "unit_type": "Office Space"
   },
   {
-    "unit_id": "I-203",
-    "building_name": "Building I",
-    "indoor_area": 480,
-    "service_area": 0,
-    "terrace_area": 52,
-    "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
-  },
-  {
     "unit_id": "C-301",
     "building_name": "Building C",
     "indoor_area": 277,
@@ -100,24 +111,14 @@
     "unit_type": "Office Space"
   },
   {
-    "unit_id": "C-100",
-    "building_name": "Building C",
-    "indoor_area": 344,
+    "unit_id": "D&E All office",
+    "building_name": "Building D&E",
+    "indoor_area": 2924,
     "service_area": 0,
-    "terrace_area": 0,
+    "terrace_area": 810,
     "leased_status": "Yes",
     "category": "Office",
     "unit_type": "Office Space"
-  },
-  {
-    "unit_id": "B-002",
-    "building_name": "Building B",
-    "indoor_area": 236,
-    "service_area": 0,
-    "terrace_area": 44,
-    "leased_status": "Yes",
-    "category": "Retail",
-    "unit_type": "Retail Shop"
   },
   {
     "unit_id": "E-002",
@@ -125,46 +126,6 @@
     "indoor_area": 195,
     "service_area": 0,
     "terrace_area": 42,
-    "leased_status": "Yes",
-    "category": "Retail",
-    "unit_type": "Retail Shop"
-  },
-  {
-    "unit_id": "I-202",
-    "building_name": "Building I",
-    "indoor_area": 136,
-    "service_area": 0,
-    "terrace_area": 21,
-    "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
-  },
-  {
-    "unit_id": "J-110",
-    "building_name": "Building J",
-    "indoor_area": 3154,
-    "service_area": 776,
-    "terrace_area": 1278,
-    "leased_status": "Yes",
-    "category": "Office",
-    "unit_type": "Office Space"
-  },
-  {
-    "unit_id": "B-001",
-    "building_name": "Building B",
-    "indoor_area": 212,
-    "service_area": 0,
-    "terrace_area": 66,
-    "leased_status": "Yes",
-    "category": "Retail",
-    "unit_type": "Retail Shop"
-  },
-  {
-    "unit_id": "C-002",
-    "building_name": "Building C",
-    "indoor_area": 80,
-    "service_area": 0,
-    "terrace_area": 23,
     "leased_status": "Yes",
     "category": "Retail",
     "unit_type": "Retail Shop"
@@ -180,13 +141,53 @@
     "unit_type": "Retail Shop"
   },
   {
-    "unit_id": "A-0013",
-    "building_name": "Building A",
-    "indoor_area": 74,
+    "unit_id": "H-200",
+    "building_name": "Building H",
+    "indoor_area": 4222,
     "service_area": 0,
     "terrace_area": 0,
     "leased_status": "Yes",
-    "category": "Retail",
-    "unit_type": "Retail Shop"
+    "category": "Office",
+    "unit_type": "Office Space"
+  },
+  {
+    "unit_id": "I-202",
+    "building_name": "Building I",
+    "indoor_area": 136,
+    "service_area": 0,
+    "terrace_area": 21,
+    "leased_status": "Yes",
+    "category": "Office",
+    "unit_type": "Office Space"
+  },
+  {
+    "unit_id": "I-203",
+    "building_name": "Building I",
+    "indoor_area": 480,
+    "service_area": 0,
+    "terrace_area": 52,
+    "leased_status": "Yes",
+    "category": "Office",
+    "unit_type": "Office Space"
+  },
+  {
+    "unit_id": "I-400",
+    "building_name": "Building I",
+    "indoor_area": 1075,
+    "service_area": 0,
+    "terrace_area": 104,
+    "leased_status": "Yes",
+    "category": "Office",
+    "unit_type": "Office Space"
+  },
+  {
+    "unit_id": "J-110",
+    "building_name": "Building J",
+    "indoor_area": 3154,
+    "service_area": 776,
+    "terrace_area": 1278,
+    "leased_status": "Yes",
+    "category": "Office",
+    "unit_type": "Office Space"
   }
 ]
